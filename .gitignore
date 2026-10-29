@@ -1,0 +1,8 @@
+# input data and large raw files
+data/*
+!data/README.md
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+.DS_Store
+.venv/

@@ -1,6 +1,3 @@
-# BTC-investor-fomo-scoring
-Label-free FOMO score (0–100) for BTC investors per market cycle: 15 expert-based behavioural features + a walk-forward HMM, with leakage, sensitivity and synthetic-investor validation.
-
 # Cycle-based FOMO score for BTC investors
 
 Scores FOMO (0–100) at the **investor × time-window** level from simulated BTC trade logs (3,000 investors, 337,732 trades, 2021-01 to 2025-12). There are no labels, so the score is built from expert-described behaviours and validated without ground truth.
